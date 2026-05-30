@@ -25,11 +25,6 @@ Exploratory Data Analysis (EDA) of Stack Overflow Survey. Data cleaning, descrip
 * **Аналітичні інсайти:** Виявлено ключові закономірності IT-ринку, визначено медіанну зарплатну вилку Python-розробників у розрізі різних країн та сформовано портрет високооплачуваного віддаленого працівника.
 * **Автоматизація:** Створено готовий аналітичний скрипт, який автоматизує розрахунок метрик центральної тенденції та профілювання респондентів для майбутніх щорічних опитувань.
 
-## 📁 Структура репозиторію
-* `notebook.ipynb` — Jupyter-ноутбук із покроковим кодом аналізу та коментарями.
-* `README.md` — опис проєкту (цей файл).
-* `data/` — [Stack Overflow Developer Survey 2025 Data](https://github.com/StackExchange/Survey/tree/main/packages/archive/2025)
-
 
 
 # Global IT Market & Python Ecosystem Investigation via Stack Overflow Data 🚀
