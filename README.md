@@ -55,4 +55,4 @@ The main goal of the research is to transform a large-scale array of unstructure
 ## 📁 Repository Structure
 * `notebook.ipynb` — Jupyter Notebook with step-by-step analysis code and comments.
 * `README.md` — project description (this file).
-* `data/` — [Stack Overflow Developer Survey 2025 Data](https://github.com/StackExchange/Survey/tree/main/packages/archive/2025)
+* data source — [Stack Overflow Developer Survey 2025 Data](https://github.com/StackExchange/Survey/tree/main/packages/archive/2025)
