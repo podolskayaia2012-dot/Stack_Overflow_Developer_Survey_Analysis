@@ -1,4 +1,4 @@
-# Stack_Overflow_Developer_Survey_Analysis
+# Stack Overflow Developer Survey Analysis
 Exploratory Data Analysis (EDA) of Stack Overflow Survey. Data cleaning, descriptive statistics, and aggregation using Python and Pandas.
 # Дослідження глобального IT-ринку та екосистеми Python за даними Stack Overflow 🚀
 
